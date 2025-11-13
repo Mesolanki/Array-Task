@@ -137,28 +137,3 @@ SearchElements(5);
 CoppyArray();
 PositiveNegative();
 swap(arr);
-
-// 16. Print Elements at Even Index
-
-// 📥 Input: [11, 22, 33, 44, 55]
-// 📤 Output: [11, 33, 55]
-
-// 17. Print Elements at Odd Index
-
-// 📥 Input: [11, 22, 33, 44, 55]
-// 📤 Output: [22, 44]
-
-// 18. Count Zeros in Array
-
-// 📥 Input: [1, 0, 5, 0, 7, 0]
-// 📤 Output: Zeros = 3
-
-// 19. Find Second Largest Element
-
-// 📥 Input: [12, 45, 67, 34, 23]
-// 📤 Output: Second Largest = 45
-
-// 20. Find Second Smallest Element
-
-// 📥 Input: [12, 45, 67, 34, 23]
-// 📤 Output: Second Smallest = 23
